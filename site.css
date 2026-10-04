@@ -282,3 +282,7 @@ textarea{min-height:120px;resize:vertical}
 @media (prefers-reduced-motion:reduce){
   html{scroll-behavior:auto}
 }
+
+.split>.prose>h2:first-child{margin-top:0}
+.calc-summary{margin:0 0 18px;padding:12px 14px;background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--signal);max-width:none}
+.calc .btn{display:inline-block;margin-top:16px}
