@@ -28,7 +28,7 @@
     });
   }
 
-  // Price calculator: graduated bands, prices include GST.
+  // Price calculator: graduated bands.
   var BANDS = [[10, 120], [25, 108], [50, 95], [100, 82], [null, 70]];
   function priceFor(n) {
     var total = 0, prev = 0;
@@ -77,9 +77,9 @@
       var lots = document.getElementById('lots');
       if (lots && !lots.value) lots.value = u;
       var est = new Intl.NumberFormat('en-AU', { style: 'currency', currency: 'AUD', maximumFractionDigits: 0 }).format(window.nbnPrice(u));
-      estBox.textContent = 'Your estimate: ' + u + ' units, ' + est + ' including GST. We confirm the final price in your quote.';
+      estBox.textContent = 'Your estimate: ' + u + ' units, ' + est + '. We confirm the final price in your quote.';
       estBox.hidden = false;
-      document.getElementById('calculator-estimate').value = u + ' units, ' + est + ' incl GST';
+      document.getElementById('calculator-estimate').value = u + ' units, ' + est + '';
     }
   }
 
