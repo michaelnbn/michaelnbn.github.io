@@ -16,6 +16,12 @@
       if (!formHost) { e.preventDefault(); note.hidden = false; return; }
       var company = document.getElementById('company');
       if (!company.value.trim()) company.value = 'Not provided';
+      var lotsEl = document.getElementById('lots');
+      var nUnits = lotsEl ? parseInt(String(lotsEl.value).replace(/[^0-9]/g, ''), 10) : 0;
+      if (nUnits >= 1 && nUnits <= 100000 && window.nbnPrice) {
+        var estAud = new Intl.NumberFormat('en-AU', { style: 'currency', currency: 'AUD', maximumFractionDigits: 0 }).format(window.nbnPrice(nUnits));
+        document.getElementById('calculator-estimate').value = nUnits + ' units = ' + estAud + ' (website price)';
+      }
       var lines = ['Source: nbndesign.net quote form'];
       extras.forEach(function (x) {
         var el = document.getElementById(x[1]);
