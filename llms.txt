@@ -1,0 +1,15 @@
+# NBN Design
+
+> NBN Design is an independent Australian consultancy that prepares NBN pit and pipe designs for single dwelling unit (SDU) and multi dwelling unit (MDU) developments, Australia-wide. Designs are prepared by NBN trained Pit and Pipe and Pathway designers. Pricing is per unit and falls as a project grows: $120 per unit for 1 to 10 units, $108 for 11 to 25, $95 for 26 to 50, $82 for 51 to 100 and $70 from 101 units. Plans are turned around within two weeks of receiving complete CAD plans. NBN Design is not affiliated with or endorsed by NBN Co Limited.
+
+## Services
+- [SDU pit and pipe design](https://nbndesign.net/sdu-pit-and-pipe-design): stand-alone lots, duplexes and triplexes; one lead-in conduit per premises.
+- [MDU pit and pipe design](https://nbndesign.net/mdu-pit-and-pipe-design): apartment buildings and horizontal MDUs.
+
+## Guides
+- [How the NBN new developments process works](https://nbndesign.net/nbn-pit-and-pipe-process): the six stages to the Certificate of Practical Completion.
+- [Pricing and calculator](https://nbndesign.net/pricing): per-unit bands and totals.
+- [FAQ](https://nbndesign.net/faq): quotes, file formats, turnaround and SDU versus MDU.
+
+## Contact
+- [Request a quote](https://nbndesign.net/quote): the quote form is the contact route. Business: NBN Design, ABN 54 390 493 853.
