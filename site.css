@@ -305,3 +305,8 @@ textarea{min-height:120px;resize:vertical}
 .hero-img img{width:100%;height:auto;display:block;border:1px solid var(--line)}
 .hero-img img.portrait{max-width:520px}
 .hero-img figcaption{color:var(--muted);font-size:.9rem;margin-top:8px}
+.calc-opts{border:0;padding:0;margin:14px 0 4px}
+.calc-opts legend{font-weight:600;margin-bottom:6px}
+.opt{display:flex;gap:8px;align-items:flex-start;font-weight:400;margin:4px 0}
+.opt input{width:auto;margin-top:4px}
+.label{display:block;font-weight:600;margin-bottom:6px}
