@@ -1,15 +1,23 @@
 # NBN Design
 
-> NBN Design is an independent Australian consultancy that prepares NBN pit and pipe designs for single dwelling unit (SDU) and multi dwelling unit (MDU) developments, Australia-wide. Designs are prepared by NBN trained Pit and Pipe and Pathway designers. Pricing is per unit and falls as a project grows: $120 per unit for 1 to 10 units, $108 for 11 to 25, $95 for 26 to 50, $82 for 51 to 100 and $70 from 101 units. Plans are turned around within two weeks of receiving complete CAD plans. NBN Design is not affiliated with or endorsed by NBN Co Limited.
+> NBN Design is an independent Australian consultancy that prepares NBN pit and pipe designs for single dwelling unit (SDU) and multi dwelling unit (MDU) developments, Australia-wide. Designs are prepared by Michael Almond, an NBN accredited designer (enAble ID 439386). Pricing is per unit and falls as a project grows: $120 per unit for 1 to 10 units, $108 for 11 to 25, $95 for 26 to 50, $82 for 51 to 100 and $70 from 101 units. Plans are turned around within two weeks of receiving complete CAD plans. NBN Design is not affiliated with or endorsed by NBN Co Limited.
 
 ## Services
-- [SDU pit and pipe design](https://nbndesign.net/sdu-pit-and-pipe-design): stand-alone lots, duplexes and triplexes; one lead-in conduit per premises.
-- [MDU pit and pipe design](https://nbndesign.net/mdu-pit-and-pipe-design): apartment buildings and horizontal MDUs.
+- [SDU design](https://nbndesign.net/sdu-pit-and-pipe-design): NBN pit and pipe design for subdivisions, duplexes and triplexes: one P20 per premises, 25 m service drop limit, pit placement rules. From $120 per lot.
+- [MDU design](https://nbndesign.net/mdu-pit-and-pipe-design): NBN pit and pipe design for apartments, townhouses and super lots: P50/P100 lead-ins, comms room and riser space, pathways to each unit. From $120 per dwelling.
+- [Pricing](https://nbndesign.net/pricing): NBN pit and pipe design from $120 per unit, with lower rates as your project grows. Use the calculator for an estimate.
 
 ## Guides
-- [How the NBN new developments process works](https://nbndesign.net/nbn-pit-and-pipe-process): the six stages to the Certificate of Practical Completion.
-- [Pricing and calculator](https://nbndesign.net/pricing): per-unit bands and totals.
-- [FAQ](https://nbndesign.net/faq): quotes, file formats, turnaround and SDU versus MDU.
+- [How the NBN new developments process works](https://nbndesign.net/nbn-pit-and-pipe-process): Every step from design to NBN's Certificate of Practical Completion, and where projects lose time.
+- [SDU or MDU: which NBN design does your development need?](https://nbndesign.net/sdu-or-mdu-nbn-design): Subdivisions, duplexes, townhouses, super lots and apartments, and the rules for each.
+- [NBN pits and conduit: a plain guide for developers](https://nbndesign.net/nbn-pit-and-conduit-basics): Pit types, conduit sizes, NBN's pit capacity table, clearances, bends and depth of cover.
+- [How to prepare CAD plans for NBN pit and pipe design](https://nbndesign.net/preparing-cad-plans-for-nbn-design): A checklist for your DWG plans, and the missing details that slow jobs down.
+- [What's in an NBN pit and pipe design package](https://nbndesign.net/pit-and-pipe-design-package): The drawings and files you receive, what you upload to NBN, revisions, and exclusions.
+- [How long does NBN pit and pipe design take?](https://nbndesign.net/nbn-design-timelines): Our two-week turnaround, what affects it, and NBN's stages after design.
+
+## About
+- [About Michael Almond](https://nbndesign.net/about): NBN Design is run by Michael Almond, NBN accredited for SDU and MDU pit and pipe design (enAble ID 439386), with 300+ NBN designs since 2022.
+- [FAQ](https://nbndesign.net/faq): Answers on NBN pit and pipe design: SDU vs MDU, lots per pit, service drop limits, transformer clearances, MDU lead-ins, turnaround and pricing.
 
 ## Contact
 - [Request a quote](https://nbndesign.net/quote): the quote form is the contact route. Business: NBN Design, ABN 54 390 493 853.
