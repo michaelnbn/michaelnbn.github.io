@@ -301,3 +301,7 @@ textarea{min-height:120px;resize:vertical}
 .data td{padding:10px 12px 10px 0;border-bottom:1px solid var(--line);vertical-align:top}
 .data td:first-child{font:500 .95rem var(--font-data);white-space:nowrap}
 .data.num td:not(:first-child),.data.num th:not(:first-child){text-align:center;font-variant-numeric:tabular-nums}
+.hero-img{margin:0 0 24px}
+.hero-img img{width:100%;height:auto;display:block;border:1px solid var(--line)}
+.hero-img img.portrait{max-width:520px}
+.hero-img figcaption{color:var(--muted);font-size:.9rem;margin-top:8px}

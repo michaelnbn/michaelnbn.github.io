@@ -9,6 +9,7 @@
 
 ## Guides
 - [How the NBN new developments process works](https://nbndesign.net/nbn-pit-and-pipe-process): Every step from design to NBN's Certificate of Practical Completion, and where projects lose time.
+- [NBN for a duplex or small subdivision: what to sort before design](https://nbndesign.net/nbn-duplex-small-subdivision-checklist): Eight things to sort before NBN design on a duplex, triplex or subdivision of up to about 20 lots.
 - [SDU or MDU: which NBN design does your development need?](https://nbndesign.net/sdu-or-mdu-nbn-design): Subdivisions, duplexes, townhouses, super lots and apartments, and the rules for each.
 - [NBN pits and conduit: a plain guide for developers](https://nbndesign.net/nbn-pit-and-conduit-basics): Pit types, conduit sizes, NBN's pit capacity table, clearances, bends and depth of cover.
 - [How to prepare CAD plans for NBN pit and pipe design](https://nbndesign.net/preparing-cad-plans-for-nbn-design): A checklist for your DWG plans, and the missing details that slow jobs down.
